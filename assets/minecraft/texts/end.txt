@@ -1,0 +1,57 @@
+[C]§f===============
+[C]§eDRK Credits
+[C]§f===============
+
+§7Created by:
+§f			Angolo Nispaci
+
+§7Game design, programming and graphics:
+§f			Rito Pastrami
+
+
+§7Music and sound:
+§f			Rito Pastrami
+
+§7Ingame artwork and paintings:
+§f			Rito Pastrami
+
+§7End game narrative:
+§f			Angolo Nispaci
+
+§7Website development:
+§f			Falix
+
+
+§7Logo and promotional artwork:
+§f			Copilot
+
+§7Business and administration:
+§f			Angolo Nispaci
+§f			Rito Pastrami
+
+§7Director of fun:
+§f			Matteo Macaluso
+
+§7Number crunching and statistics:
+§f			Rito Pastrami
+
+§7Realms Development Team:
+§f			Angolo Nispaci
+
+§7Realms Content Manager:
+§f			Angolo Nispaci
+
+§7Additional programming:
+§f			Dsan
+
+§7Developers of Mo' Creatures (horses etc):
+§f			Mythic Mobs
+
+§7Technologies used:
+§f			il nostro cervello
+
+
+
+
+
+§f"Scaveremo, Costruiremo. Perché noi, Siamo MINECRAFT!" §7- Chicken Jockey

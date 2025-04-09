@@ -1,0 +1,93 @@
+[
+    {
+        "section": "DRK Studios",
+        "disciplines": [
+            {
+                "discipline": "DRK Studios Capi",
+                "titles": [
+                    {
+                        "title": "Studio Head of DRK Studios",
+                        "names": [
+                            "Angolo Nespolaci"
+                        ]
+                    },
+                    {
+                        "title": "L'altro Gay",
+                        "names": [
+                            "Risconzi Intrinseco"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Design & Building",
+                "titles": [
+                    {
+                        "title": "frocio 1",
+                        "names": [
+                            "Angolo Nespolaci"
+                        ]
+                    },
+                    {
+                        "title": "frocio 2",
+                        "names": [
+                            "Risconzi Intrinseco"
+                        ]
+                    },
+                    {
+                        "title": "il builder",
+                        "names": [
+                            "Rosario Peluso"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Programming",
+                "titles": [
+                    {
+                        "title": "Non ha fatto quasi nulla",
+                        "names": [
+                            "Angolo Nespolaci"
+                        ]
+                    },
+                    {
+                        "title": "Quello che ha fatto tutto",
+                        "names": [
+                            "Risconzi Intrinseco"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Players",
+                "titles": [
+                    {
+                        "title": "Nano",
+                        "names": [
+                            "Mattone Mattei Belculo 'il macaluso'"
+                        ]
+                    },
+                    {
+                        "title": "il lebbroso",
+                        "names": [
+                            "Alessandro il liberale"
+                        ]
+                    },
+                    {
+                        "title": "Mister",
+                        "names": [
+                            "Divano Turchese"
+                        ]
+                    },
+                    {
+                        "title": "NewGen",
+                        "names": [
+                            "Giovedì Giappone"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
