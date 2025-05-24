@@ -663,6 +663,20 @@
           "type": "model",
           "model": "qualityarmory:gun/blazeessence"
         }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "model",
+          "model": "qualityarmory:gun/abyssalcannon"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "model",
+          "model": "qualityarmory:gun/quantumcannon"
+        }
       }
     ]
   },
