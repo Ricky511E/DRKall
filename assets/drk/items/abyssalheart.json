@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "drk:item/abyssalheart"
+        "model": "drk:item/rottenheart"
     }
 }
