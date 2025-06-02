@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "drk:pvp_armor_gold"
+            }
+        ],
+        "humanoid_leggings": [
+            {
+                "texture": "drk:quantumkingleggings"
+            }
+        ]
+    }
+}

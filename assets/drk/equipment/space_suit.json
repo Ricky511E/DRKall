@@ -2,7 +2,7 @@
     "layers": {
         "humanoid": [
             {
-                "texture": "minecraft:space_suit"
+                "texture": "drk:space_suit"
             }
         ]
     }

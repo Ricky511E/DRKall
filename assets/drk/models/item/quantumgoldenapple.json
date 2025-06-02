@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "drk:item/quantum_golden_apple"
+    }
+  }
+  
