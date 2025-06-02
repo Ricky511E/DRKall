@@ -4,6 +4,11 @@
             "records/gormita"
         ]
     },
+    "entity.mattoblin.ambient":{
+        "sounds": [
+            "entity/mattoblin/mattoblin_ambient"
+        ]
+    },
     "records.lava_chicken": {
         "sounds": [
             "records/lava_chicken"
