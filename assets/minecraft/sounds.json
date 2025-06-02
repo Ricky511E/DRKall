@@ -1,4 +1,9 @@
 {
+    "records.gormita": {
+        "sounds": [
+            "records/gormita"
+        ]
+    },
     "records.lava_chicken": {
         "sounds": [
             "records/lava_chicken"
