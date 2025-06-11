@@ -1,4 +1,9 @@
 {
+    "records.runaway":{
+        "sounds": [
+            "records/roblox_runaway"
+        ]
+    },
     "records.gormita": {
         "sounds": [
             "records/gormita"

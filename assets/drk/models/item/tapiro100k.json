@@ -131,22 +131,21 @@
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [101.99, 64.72, -31.89],
-			"translation": [0, 1.75, 2.75],
-			"scale": [0.6, 0.6, 0.6]
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
-			"rotation": [16.74, 66.52, -21.18],
-			"translation": [-1.75, 6.75, 0.75],
-			"scale": [0.6, 0.6, 0.6]
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [16.74, 66.52, -21.18],
-			"translation": [-1.75, 6.75, 0.75],
-			"scale": [0.6, 0.6, 0.6]
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
-			"translation": [0, 5.5, 0]
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
 		},
 		"gui": {
 			"rotation": [39.37, -71.15, 26.41],
