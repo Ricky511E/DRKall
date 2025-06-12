@@ -1,4 +1,29 @@
 {
+    "entity.mattoblin.recall":{
+        "sounds": [
+            "entity/mattoblin/ambient2"
+        ]
+    },
+    "entity.jawmonster.ambient":{
+        "sounds": [
+            "entity/jawmonster/ambient"
+        ]
+    },
+    "entity.vrmonster.attack":{
+        "sounds": [
+            "entity/vrmonster/attack"
+        ]
+    },
+    "entity.sirsdrogo.death":{
+        "sounds": [
+            "entity/sirsdrogo/death"
+        ]
+    },
+    "entity.uomopaprika.step":{
+        "sounds": [
+            "entity/uomopaprika/step"
+        ]
+    },
     "records.runaway":{
         "sounds": [
             "records/roblox_runaway"
