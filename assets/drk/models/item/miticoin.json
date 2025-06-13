@@ -1,0 +1,111 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "drk:item/miticoin",
+		"particle": "drk:item/miticoin"
+	},
+	"elements": [
+		{
+			"name": "octagon",
+			"from": [7.2, 6.96447, 5.5],
+			"to": [7.8, 9.03553, 10.5],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [6, 11, 6.625, 13.0625], "texture": "#0"},
+				"east": {"uv": [9, 6.0625, 11, 10.9375], "texture": "#0"},
+				"south": {"uv": [7, 11, 7.625, 13.0625], "texture": "#0"},
+				"west": {"uv": [6.0625, 6.4375, 8, 10.9375], "texture": "#0"},
+				"up": {"uv": [10.625, 5, 10, 0], "texture": "#0"},
+				"down": {"uv": [0.625, 11, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [7.2, 6.96447, 5.5],
+			"to": [7.8, 9.03553, 10.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [8, 11, 8.625, 13.0625], "texture": "#0"},
+				"east": {"uv": [7.9375, 0, 12.9375, 2.0625], "texture": "#0"},
+				"south": {"uv": [9, 11, 9.625, 13.0625], "texture": "#0"},
+				"west": {"uv": [7.9375, 3, 12.9375, 5.0625], "texture": "#0"},
+				"up": {"uv": [11.625, 5, 11, 0], "texture": "#0"},
+				"down": {"uv": [1.625, 11, 1, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [7.2, 5.5, 6.96447],
+			"to": [7.8, 10.5, 9.03553],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 11, 2.625, 16], "texture": "#0"},
+				"east": {"uv": [0.0625, 6.4375, 2, 10.9375], "texture": "#0"},
+				"south": {"uv": [3, 11, 3.625, 16], "texture": "#0"},
+				"west": {"uv": [3.0625, 6.4375, 5.0625, 10.9375], "texture": "#0"},
+				"up": {"uv": [10.625, 13.0625, 10, 11], "texture": "#0"},
+				"down": {"uv": [11.625, 11, 11, 13.0625], "texture": "#0"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [7.2, 5.5, 6.96447],
+			"to": [7.8, 10.5, 9.03553],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 11, 4.625, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 7.875, 6.3125], "texture": "#0"},
+				"south": {"uv": [5, 11, 5.625, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 7.9375, 6.3125], "texture": "#0"},
+				"up": {"uv": [12.625, 2.0625, 12, 0], "texture": "#0"},
+				"down": {"uv": [12.625, 3, 12, 5.0625], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, 0, 0],
+			"scale": [1, 0.44336, 0.43945]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0.5, 0, 0],
+			"scale": [1, 0.44336, 0.43945]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 26.25, 0],
+			"translation": [0, 4, 3.25],
+			"scale": [1, 0.44336, 0.35742]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 37, 0],
+			"translation": [0, 4, 3.25],
+			"scale": [1, 0.44336, 0.35742]
+		},
+		"ground": {
+			"rotation": [0, 26.25, 0],
+			"translation": [0, -0.75, 0],
+			"scale": [1, 0.44336, 0.35742]
+		},
+		"gui": {
+			"rotation": [-180, 89.75, -180],
+			"scale": [1, 1.73633, 1.62695]
+		},
+		"head": {
+			"rotation": [0, -89.25, 0],
+			"translation": [0, 0, -6.25],
+			"scale": [1, 2.56836, 2.58594]
+		},
+		"fixed": {
+			"rotation": [-180, 89.75, -180],
+			"scale": [1, 1.73633, 1.62695]
+		}
+	},
+	"groups": [
+		{
+			"name": "coin",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
