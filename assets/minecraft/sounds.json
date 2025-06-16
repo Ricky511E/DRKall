@@ -1,4 +1,19 @@
 {
+    "records.heisenberg_song":{
+        "sounds": [
+            "records/heisenberg_song"
+        ]
+    },
+    "records.pasta":{
+        "sounds": [
+            "records/pasta"
+        ]
+    },
+    "records.labalarm":{
+        "sounds": [
+            "records/labalarm"
+        ]
+    },
     "entity.mattoblin.recall":{
         "sounds": [
             "entity/mattoblin/ambient2"
